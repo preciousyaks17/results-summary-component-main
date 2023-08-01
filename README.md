@@ -8,7 +8,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Github Page Link](https://preciousyaks17.github.io/results-summary-component-main/)
   - [Built with](#built-with)
 - [Author](#author)
  
